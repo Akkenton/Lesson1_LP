@@ -98,6 +98,7 @@ StyleCopReport.xml
 *.svclog
 *.scc
 
+
 # Chutzpah Test files
 _Chutzpah*
 
@@ -304,6 +305,7 @@ node_modules/
 # Visual Studio 6 technical files
 *.ncb
 *.aps
+obj
 
 # Visual Studio LightSwitch build output
 **/*.HTMLClient/GeneratedArtifacts
